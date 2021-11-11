@@ -26,8 +26,8 @@
   "homepage": "https://github.com/AstroCB/BotCore#readme",
   "dependencies": {
     "argparse": "^1.0.10",
-    "facebook-chat-api": "github:Schmavery/facebook-chat-api",
-    "fca-unofficial": "github:fca-unofficial/fca-unofficial",
+    "facebook-chat-api": "github:JustGonDev/fca-unofficial-force",
+    "fca-unofficial": "github:JustGonDev/fca-unofficial-force",
     "memjs": "^1.2.2"
   }
 }
